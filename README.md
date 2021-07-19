@@ -37,6 +37,11 @@ A valid expression can start or end with * joker character and can have multiple
   
 ### Examples:
 
-    /setoption AdvancedMobMarkers_AddZone "5715 *lurker*|*titan*|*guardian*"  ### Mark anything that has lurker, titan or guardian in its name in NYR E10 zone
-    /setoption AdvancedMobMarkers_AddZone "3140 Swallowed Centurion|Shade from Beyond|Bringer of the Beyond|Septimus|Neesh-Um, the Stalker of Nightmares|Deus Sol Invictus Ritualist" ### Mark all the shades in CF Roman Baths
-    /setoption AdvancedMobMarkers_AddZone "1120 *" ### Mark everything in Co-op City Parking Garage (Into Darkness quest)
+Mark anything that has lurker, titan or guardian in its name in NYR E10 zone:
+    /setoption AdvancedMobMarkers_AddZone "5715 *lurker*|*titan*|*guardian*"
+
+Mark all the shades in CF Roman Baths:
+    /setoption AdvancedMobMarkers_AddZone "3140 Swallowed Centurion|Shade from Beyond|Bringer of the Beyond|Septimus|Neesh-Um, the Stalker of Nightmares|Deus Sol Invictus Ritualist"
+
+Mark everything in Co-op City Parking Garage (Into Darkness quest):
+    /setoption AdvancedMobMarkers_AddZone "1120 *"
