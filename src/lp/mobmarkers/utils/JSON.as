@@ -22,18 +22,18 @@ SOFTWARE.
 /*
 ported to Actionscript May 2005 by Trannie Carter <tranniec@designvox.com>, wwww.designvox.com
 USAGE:
-	try {
-		var o:Object = JSON.parse(jsonStr);
-		var s:String = JSON.stringify(obj);
-	} catch(ex) {
-		trace(ex.name + ":" + ex.message + ":" + ex.at + ":" + ex.text);
-	}
+    try {
+        var o:Object = JSON.parse(jsonStr);
+        var s:String = JSON.stringify(obj);
+    } catch(ex) {
+        trace(ex.name + ":" + ex.message + ":" + ex.at + ":" + ex.text);
+    }
 
 */
 
 class lp.mobmarkers.utils.JSON {
 
-	static function stringify(arg):String {
+    static function stringify(arg):String {
 
         var c, i, l, s = '', v;
 
@@ -108,10 +108,10 @@ class lp.mobmarkers.utils.JSON {
         }
     }
 
-	static function parse(text:String):Object {
+    static function parse(text:String):Object {
         var at = 0;
         var ch = ' ';
-		var _value:Function;
+        var _value:Function;
 
         var _error:Function = function (m) {
             throw {
@@ -165,10 +165,10 @@ class lp.mobmarkers.utils.JSON {
 
         var _string:Function = function() {
             var i, s = '', t, u;
-			var outer:Boolean = false;
+            var outer:Boolean = false;
 
             if (ch == '"') {
-				while (_next()) {
+                while (_next()) {
                     if (ch == '"') {
                         _next();
                         return s;
@@ -195,14 +195,14 @@ class lp.mobmarkers.utils.JSON {
                                 t = parseInt(_next(), 16);
                                 if (!isFinite(t)) {
                                     outer = true;
-									break;
+                                    break;
                                 }
                                 u = u * 16 + t;
                             }
-							if(outer) {
-								outer = false;
-								break;
-							}
+                            if(outer) {
+                                outer = false;
+                                break;
+                            }
                             s += String.fromCharCode(u);
                             break;
                         default:
@@ -292,7 +292,7 @@ class lp.mobmarkers.utils.JSON {
                 }
             }
             //v = +n;
-			v = 1 * n;
+            v = 1 * n;
             if (!isFinite(v)) {
                 _error("Bad number");
             } else {

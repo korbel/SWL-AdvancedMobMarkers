@@ -1,5 +1,5 @@
 class lp.mobmarkers.utils.ArrayUtils {
-	
+    
     public static function Contains(array:Array, target):Boolean {
         for (var i:Number = 0 ; i < array.length ; i++)
         {
@@ -24,15 +24,15 @@ class lp.mobmarkers.utils.ArrayUtils {
     }
     
     public static function Any(array:Array, func:Function):Boolean {
-		for (var i:Number = 0 ; i < array.length ; i++)
-		{
-			if (func(array[i]))
-			{
-				return true;
-			}
-		}
-		
-		return false;
-	}
-	
+        for (var i:Number = 0 ; i < array.length ; i++)
+        {
+            if (func(array[i]))
+            {
+                return true;
+            }
+        }
+        
+        return false;
+    }
+    
 }
