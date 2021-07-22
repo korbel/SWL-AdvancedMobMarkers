@@ -2,11 +2,10 @@
 <Root>
 <Module  name = "AdvancedMobMarkers"
 	movie       = "AdvancedMobMarkers\AdvancedMobMarkers.swf"
-	flags       = "GMF_CFG_STORE_USER_CONFIG"
+	flags       = ""
 	depth_layer = "Top"
 	sub_depth   = "2"
 	variable    = "AdvancedMobMarkers"
 	criteria    = "AdvancedMobMarkers &amp;&amp; (guimode &amp; (GUIMODEFLAGS_INPLAY | GUIMODEFLAGS_ENABLEALLGUI))"
-	config_name = "AdvancedMobMarkers_Cfg"
 	/>
 </Root>

@@ -2,5 +2,4 @@
 <Root>
   <Value name="AdvancedMobMarkers" value="true" />
   <Value name="AdvancedMobMarkers_Settings" value='{"zones":{"1120":"*","5040":"The Varangian | Volatile Host","7670":"*","3155":"*"}}' />
-  <Archive name="AdvancedMobMarkers_Cfg" />
 </Root>
