@@ -1,0 +1,161 @@
+1000: London
+1100: New York
+1120: Co-op City Parking Garage
+1200: Seoul
+1300: The Sunken Library
+2200: Seoul
+3030: Kingsmouth Town
+3035: Kingsmouth Sewer Junction
+3040: The Savage Coast
+3050: The Blue Mountain
+3070: Kaidan
+3090: The Scorched Desert
+3100: City of the Sun God
+3120: The Besieged Farmlands
+3130: The Shadowy Forest
+3140: The Carpathian Fangs
+3150: New Dawn
+3155: New Dawn by Night
+3159: Wrath of the Dawn
+4000: Character Creation
+4100: A Waking Dream
+5000: The Slaughterhouse
+5040: The Polaris
+5060: Agartha
+5080: The Ankh
+5110: Beyond the Sargasso Sea
+5120: Dreaming Prison
+5121: Origin
+5140: Hell Raised
+5150: Hell Fallen
+5160: Hell Eternal
+5170: The Darkness War
+5190: The Facility
+5710: Manhattan Exclusion Zone
+5715: Manhattan Exclusion Zone
+5740: Deep Agartha
+5811: Seoul Fight Club
+5830: Shambala
+6001: Illuminati Cellar
+6003: Mining Museum Basement
+6007: Kingsmouth Sewer
+6008: Illuminati Underground
+6009: Maintenance Tunnels
+6010: Illuminati Archives
+6012: Well of Our Forefathers
+6013: Dr Bannerman's Clinic
+6014: The Illuminati Tunnels
+6020: Room 13
+6030: Memory of Stonehenge
+6070: Lair of Darkness
+6071: Innsmouth Academy Basement
+6072: Safehouse
+6073: Atlantic Island Park Shadow
+6074: Mancave
+6075: The Guardian's Cave
+6076: The Fog
+6120: Devore Mansion Crypt
+6152: Blue Ridge Mine
+6154: The Ak'ab Abyss
+6161: The Shadow World
+6163: The Devore Mansion
+6200: Hotel Wahid Basement
+6201: Ancient Marya Atheneum
+6202: Butcher shop cellar
+6203: al-Merayah Tunnels
+6206: The Howling
+6207: Aten Temple
+6208: The Black Pyramid
+6209: Ancient Tomb
+6213: The Last Train to Cairo
+6214: Date Factory
+6215: Date Factory
+6220: Sol Glorificus, 329 AD
+6222: Old al-Merayah
+6224: Thinis, 1897 BCE
+6240: Beneath Black Pyramid
+6260: The Prison
+6401: Underground Bunker
+6404: Dutchman's lair
+6461: Dimir Farm Cellar
+6471: Occulted Crypt
+6536: Emma's Dream
+6537: Dracula's Castle
+6540: The Palace Below
+6550: Tomb of the Prince
+6560: Dracul's Rest
+6570: Hatchet Falls Facility
+6580: The Nursery
+6590: Emma's Dreamscape
+6600: Ground Zero Flashback
+6620: Kaidan Station
+6630: Akiyama Building Parking Garage
+6640: The Fear Nothing Foundation
+6660: Ibaraki's Lair
+6670: Yuichi's Apartment
+6672: Yasuraka House
+6680: Kaidan District Sewers
+6690: Mefisto Security
+6700: Niflheim
+6720: Trial of Flame
+6730: The Clubhouse
+6740: The AV Suite
+6760: The Collective Unconscious
+6770: Kaidan International Hospital
+6780: Southern Orochi Tunnels
+6800: The Orochi Underground
+6805: The Orochi Tower - Lobby
+6810: Orochi Tower - Vali
+6820: Orochi Tower - Sycoil
+6830: Orochi Tower - Zagan
+6840: Orochi Tower - Manticore
+6850: Orochi Tower - Anansi
+6860: Orochi Tower - Faust
+6870: Orochi Tower - QBL
+6880: Orochi Tower - Plethron
+6890: Orochi Tower - Boardroom
+6892: Orochi Tower - Penthouse
+7010: The Crucible
+7020: London Fight Club
+7050: Cold Room
+7070: Albion Ballroom Theatre
+7072: Albion Ballroom Theatre
+7075: Albion Rehearsal Stage
+7080: Tabula Rasa
+7090: Amity House
+7110: Ockham's Razor
+7120: Squatter's Den
+7130: Phoenician Warehouse
+7140: Londinium Excavation
+7160: The Crusades Club
+7190: British Museum of the Occult
+7203: Test Chamber
+7210: Warehouse
+7220: Illuminati Office
+7230: Brooklyn Fight Club
+7240: Orochi Office
+7251: The Modern Prometheus
+7260: New York Sewers
+7290: Warehouse Basement
+7403: Dojang
+7410: Agartha
+7418: Deep Agartha
+7420: Shambala
+7440: The Abandoned Asylum
+7442: The Abandoned Asylum
+7450: Orochi Office
+7602: The Hotel
+7612: The Mansion
+7622: The Castle
+7640: Arturo Castiglione's Office
+7650: In the Black
+7660: Agartha Defiled
+7670: Stonehenge
+7710: The Forgotten Pumpkin Patch
+7730: Vibrant Agartha
+7740: Dark Agartha
+7800: The Marquard Mansion
+7810: The Gym
+7820: Terminal D
+30955: Clothing_Playfield
+30956: NPC_Playfield

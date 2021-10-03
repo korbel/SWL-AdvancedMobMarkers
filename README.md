@@ -23,7 +23,7 @@ To clear the settings for a zone:
     /setoption AdvancedMobMarkers_RemoveZone <zone_id>
   
 
-To get the zone ID for the current zone, press Shift+F9 and the game will tell you in the chat (you may have to enable the System channel). You should see something like this:
+To get the zone ID for the current zone, press Shift+F9 and the game will tell you in the chat (you may have to subscribe to the System channel). You should see something like this:
 
     Dim: 10 Server: 79 
     Pos: 165.7, 263.7, y 27.8 1000
@@ -35,7 +35,7 @@ The zone ID is right after your coordinates, in this case it is 1000
 The expression parameter tells which mobs you want to mark in the given zone.
 A valid expression can start or end with * joker character and can have multiple expressions joined together with the | character. The matching is not case sensitive.
   
-### Examples:
+### Examples
 
 Mark anything that has lurker, titan or guardian in its name in NYR E10 zone:
 
@@ -48,3 +48,29 @@ Mark all the shades in CF Roman Baths:
 Mark everything in Co-op City Parking Garage (Into Darkness quest):
 
     /setoption AdvancedMobMarkers_AddZone "1120 *"
+
+### Defaults
+
+- **The Polaris** (5040): The Varangian (3rd boss), Volatile Host (bombers), The Ur-Draug (last boss)
+- **New Dawn by Night** (3155): All monsters
+- **Co-op City Parking Garage - Into Darkness** (1120): All monsters
+- **The Hotel - S&P** (7602): All monsters
+- **The Mansion - S&P** (7612): All monsters
+- **The Castle - S&P** (7622): All monsters
+- **Stonehenge - Occult Defense** (7670): All monsters
+- **Orochi Tower - Penthouse** (6892): Uta's Gift (the exploding drone)
+
+```
+{
+    "zones": {
+        "5040": "The Varangian | Volatile Host | The Ur-Draug",
+        "3155": "*",
+        "1120": "*",
+        "7612": "Effigy *",
+        "7602": "Effigy *",
+        "7622": "Effigy *",
+        "7670": "*",
+        "6892": "Uta&apos;s Gift"
+    }
+}
+```

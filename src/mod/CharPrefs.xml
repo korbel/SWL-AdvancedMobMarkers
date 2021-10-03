@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
 <Root>
   <Value name="AdvancedMobMarkers" value="true" />
-  <Value name="AdvancedMobMarkers_Settings" value='{"zones":{"1120":"*","5040":"The Varangian | Volatile Host","7670":"*","3155":"*"}}' />
+  <Value name="AdvancedMobMarkers_Settings" value='{"zones":{"5040":"The Varangian | Volatile Host | The Ur-Draug","3155":"*","1120":"*","7612":"Effigy *","7602":"Effigy *","7622":"Effigy *","7670":"*","6892":"Uta&apos;s Gift"}}' />
 </Root>
